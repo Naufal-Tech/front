@@ -1,5 +1,5 @@
 /* eslint-disable */
-import react from "react";
+import React from "react";
 import "../../App.css";
 import HeroSection from "../HeroSection";
 
